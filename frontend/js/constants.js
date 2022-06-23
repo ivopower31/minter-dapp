@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 const contractAddress = "0xDBEaEAe10854b8B5C33470F59f60D1Cf9aa86398"; //Replace with your own contract address
-=======
-const contractAddress = "0x8b4F500A8E58957d753977F5dbF96464866FE529"; //Replace with your own contract address
->>>>>>> 65b5bb90accb45ad6e33c5a68f6b49cb8a0a095f
 const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the FEELINGSAUCY NFT Project!!";
